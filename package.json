@@ -1,0 +1,25 @@
+{
+  "name": "web-codeforces-api",
+  "version": "1.0.0",
+  "description": "using mern stack",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shantanutheone/Web-Codeforces-API.git"
+  },
+  "keywords": [
+    "codeforces"
+  ],
+  "author": "Shantanu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shantanutheone/Web-Codeforces-API/issues"
+  },
+  "homepage": "https://github.com/shantanutheone/Web-Codeforces-API#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
